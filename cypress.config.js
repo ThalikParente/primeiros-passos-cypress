@@ -9,5 +9,5 @@ module.exports = defineConfig({
     baseUrl: 'https://opensource-demo.orangehrmlive.com/web/index.php',
   },
     viewportWidth: 1366,
-  viewportHeight: 768,
+  viewportHeight: 1000,
 });
